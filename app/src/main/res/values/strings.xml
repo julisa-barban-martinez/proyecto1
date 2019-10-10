@@ -1,0 +1,327 @@
+<resources>
+    <string name="app_name">proyecto1</string>
+    <string name="tex1">Reseñas de Peliculas</string>
+    <string name="text2">Julisa Barban Martinez</string>
+    <string name="tex3">7T11</string>
+    <string name="imagen">collage</string>
+    <string name="principal">Julisa Barban Martinez</string>
+    <string name="texto4">Categorias</string>
+    <string name="texto5">Nuevo</string>
+    <string name="buton2">Mas Visto</string>
+    <string name="buton1">Nuevo</string>
+    <string name="buton3">Accion</string>
+    <string name="buton4">Para Niños</string>
+    <string name="buton5">Terror</string>
+    <string name="buton6">Drama</string>
+    <string name="burton7">Comedia</string>
+    <string name="buton8">Documentales</string>
+    <string name="buton7">Comedia</string>
+    <string name="buton9"><![CDATA[MIS PREferidas  <3]]></string>
+    <string name="buton10">Creador</string>
+    <string name="imagen2">pantallazo</string>
+    <string name="imagen3">pantallazo</string>
+    <string name="texto6">Peliculas de Estreno</string>
+    <string name="ima3">estreno</string>
+    <string name="decripcion_txt">
+        1. Escape Room
+
+Sinopsis: Kristen (Taylor Russell) quiere celebrar su 30 cumpleaños de una forma especial y decide
+        invitar a su novio, Tyler, y a sus cuatro amigos a una Escape Room, un juego que consiste
+        en intentar escapar de una habitación resolviendo pruebas y acertijos en una hora.
+
+Lo que parecía algo divertido y diferente se convierte en una pesadilla para el grupo de amigos
+        al percatarse que, poco a poco, las pruebas se complican de tal forma que se convierte
+        en un juego mortal, en el que la habitación reclama una nueva víctima cada vez. Ahora
+        ya no están jugando a un simple pasatiempo, están jugándose la vida.
+
+Fecha de estreno de Escape Room
+
+- Fecha de estreno en Estados Unidos: 4 de enero
+
+- Fecha de estreno Perú: 4 de enero
+
+- Fecha de estreno en España: 15 de marzo
+
+
+
+2. The Prodigy
+
+Sinopsis: La película sigue a Sarah (Taylor Schilling), una madre que teme que el comportamiento
+        perturbador de su joven hijo Miles (Jackson Robert Scott) indique que una fuerza maligna,
+        posiblemente sobrenatural, lo ha poseído. Al temer por la seguridad de su familia, Sarah
+        debe lidiar con su instinto maternal de amar y proteger a Miles, a la vez de investigar qué
+        o quién está causando su oscuro giro. Se verá entonces obligada a buscar respuestas en el
+        pasado, cruzando una borrosa línea entre percepción y realidad.
+
+Fecha de estreno de The Prodigy
+
+- Fecha de estreno Estados Unidos: 8 de febrero
+
+- Fecha de estreno Perú: 8 de febrero
+
+- Fecha de estreno Colombia: 8 de febrero
+
+
+    </string>
+    <string name="decripcion_txt1">El rey león
+
+     Disney
+Recaudación total: 35.201.243 euros.
+Este remake del clásico de Disney de 1994 prometía ser uno de los grandes fenómenos de taquilla de
+        2019, y no ha defraudado. Después de un par de meses en cartelera no solo se ha colocado
+        como la película más taquillera del año en España, sino una de las más exitosas de la
+        historia. Jon Favreau dirige esta nueva versión de la historia de Simba con un CGI
+
+        hiperrealista que nos sumerge directamente en la vida de la sabana africana.
+¿Por qué \'El rey león
+
+ Toy Story 4
+
+PixarDisney
+Recaudación total: 20.756.981 euros.
+La cuarta entrega de la saga de los muñecos parlantes más simpáticos del cine ha arrasado en
+        taquilla. Estrenada a finales del mes de junio, ya se coloca entre las primeras películas
+        de la tabla, y hay pocas posibilidades de que la vayan a mover de ahí. Woody, Buzz
+        Lightyear y compañía vuelven (con un nuevo y genial compañero: Forky) para vivir aventuras
+        y comprender cuál es su lugar en el mundo
+</string>
+
+    <string name="ima4">accion</string>
+    <string name="buton11" translatable="false">REGRESO</string>
+    <string name="buton12" translatable="false">REGRESO</string>
+    <string name="descripcionaccion_txt3">El club de la lucha
+
+El club de la lucha es una película estrenada en el año 1999 basada en la novela homónima de Chuck
+        Palahniuk. Jim Uhls adaptó el guión y David Fincher (Seven, La red social) dirigió el film.
+        En el reparto nos encontramos con Edward Norton, Brad Pitt, Helena Bonham Carter y Jared
+        Leto entre otros rostros conocidos de Hollywood.
+El argumento trata sobre un joven insomne que está cansado de su monótona vida y en uno de sus
+        viajes conoce a un vendedor de jabón (Brad Pitt), muy enérgico y carismático, que defiende
+        una particular filosofía: la autodestrucción es la única vía que hace que la vida merezca
+        la pena.
+El padrino
+
+El padrino es una trilogía de temática gángster dirigida por Francis Ford Coppola. La primera
+        cinta de la saga fue estrenada en el año 1972. El film está basado en la novela de Mario
+        Puzzo, escritor italiano que también se involucró en la adaptación de guión.
+Fue un éxito de taquilla y recaudó más de cuarenta veces su presupuesto (solo la primera película),
+        pero la enorme influencia de El padrino no se puede medir en millones de dólares.
+Alguien voló sobre el nido del cuco
+
+Alguien voló sobre el nido del cuco es una película del realizador checo Milos Forman basada en
+        la novela homónima de Ken Kesey. Esta película de drama cuenta la historia de Randle
+        McMurphy, un excéntrico condenado por asalto que es recluido en un hospital psiquiátrico
+        después de alegar un trastorno mental en su juicio.
+</string>
+    <string name="texx">MENU</string>
+    <string name="ima5">drama</string>
+    <string name="buton13" translatable="false">REGRESO</string>
+    <string name="descripcion_txt4">Avatar
+Se estrenó en 2009 y tuvo una recaudación mundial de más de 2,787 millones de dólares. Su
+        presupuesto fue de US$237 millones.
+
+2.- Avengers Endgame
+La película dirigido por Anthony y Joe Russo que se estrenó el 24 de abril del 2019 ,
+        recaudó 2 millones 188 mil dólares a nivel mundial, desplazando a la película
+        Titanic al tercer lugar en la historia de las películas más taquilleras del mundo.
+
+3. Titanic
+Se estrenó en 1997. La recaudación fue de más de 2,186 millones de dólares y tuvo como
+        presupuesto US$200 millones.
+
+4. Star Wars: Episodio VII - El Despertar de la Fuerza
+Se estrenó en 2015 logrando recaudar 2,068 millones de dólares con un presupuesto de US$200
+        millones, igual que el de Titanic.
+
+5. Jurassic World
+Película de Universal Studios, estrenada en 2015, logró una taquilla mundial de más de 1,617
+        millones de dólares. El presupuesto para hacer la película fue de US$150 millones.
+
+6. The Avengers
+Ocupa el quinto lugar con más de 1,519 millones de dólares en taquilla mundial. La película
+        se estrenó el 2012 con un presupuesto de US$220 millones.
+</string>
+    <string name="descripcion_txt5">Heat
+
+Michael Mann dirige esta película policiaca referencia de la mayoría de películas
+        de robos a bancos posteriores.
+De hecho, la escena del atraco al banco, la persecución y el tiroteo en plena ciudad
+        de Los Ángeles entre policía y atracadores que aparece en Heat fue considerada,
+        según las palabras del USA Today, como "la escena de acción más impactante de
+        los últimos años".
+Se trata de la primera película que unió a estrellas de la talla de Robert De Niro y Al
+        Pacino tras El Padrino II, motivo más que suficiente para que la cinta fuera un
+        rotundo éxito de crítica y público.
+The Raid
+
+Turno para llegar a una de las películas de acción más desconocidas por el gran público,
+        pero venerada por los amantes de este género: The Raid.
+Con origen Indonesio, el quinto puesto de nuestra lista lo ocupa una película con hostias
+        como panes gallegos coreografías de acción, peleas y golpes por doquier que
+        cumplirán todas tus expectativas.
+Gareth Evans, su director, consigue generar una historia violenta, heredera de La Jungla
+        de Cristal, con un ritmo de lo más frenético, y con escenas que perdurarán en tu
+        retina cuando se acabe la proyección.
+Matrix
+
+Si tuviéramos que elegir una película moderna que haya influido claramente en cientos de
+        obras posteriores, esa es Matrix.
+La película de las hermanas Wachowski y protagonizada por Keanu Reeves, Laurence Fishburne
+        , Carrie-Anne Moss y Hugo Weaving fue estrenada en 1999. Llegó a conseguir 4 premios
+        Oscar, entre ellos el de mejores efectos visuales.
+
+Terminator 2: El día del juicio final
+
+James Cameron se cuela en nuestra lista de mejores películas de acción de la historia gracias
+        a Terminator 2: el día del juicio final.
+Tras el éxito de la primera película, y aprovechando la popularidad de Schwarzenegger,
+        Cameron volvió a ponerse a los mandos en esta secuela de Terminato y tuvo el placer
+        de convertirse en una de las primeras películas en las que se utilizaron imágenes generadas
+        por ordenador (CGI) para recrear al enemigo del T800.
+Aliens: El regreso
+
+De nuevo James Cameron.
+Después de vagar por el espacio durante varios años, Ripley es rescatada y el planeta LV- 426 de
+        Alien ha sido colonizado. Tras perder la comunicación con la colonia y, para investigar
+        los motivos, se envía una expedición de marines espaciales, capitaneados por Ripley.
+</string>
+    <string name="butun14">REGUESO</string>
+    <string name="buton15" translatable="false">REGRESO</string>
+    <string name="descripcion_txt6">o la amistad, la tolerancia, el respeto, la ecología...
+ ABRIR FILTROS
+Llega el tráiler de mascotas 2
+Llega el tráiler de mascotas 2
+Ya está disponible en calidad hd el tráiler mundial en español de mascotas 2, la segunda entrega de
+        la comedia de animación producida por illumination, responsable de éxitos como “los minions”
+        , “gru, mi... (peliculas para niños)
+Estreno de dumbo, de tim burton
+Estreno de dumbo, de tim burton
+Este viernes 29 de marzo se estrena la esperada película de dumbo, dirigida por tim burton.
+        La película estará presente en 746 pantallas de 404 cines de españa. (peliculas de niños)
+Estreno el niño que pudo ser rey
+Estreno el niño que pudo ser rey
+El 15 de marzo se estrena el niño que pudo ser rey, una película de aventuras. (peliculas para bebes)
+Aladdin llega a los cines el 24 de mayo
+Aladdin llega a los cines el 24 de mayo
+Ya están disponibles las nuevas imágenes de la película aladdin. En ellas, se puede ver por primera
+        vez a will smith en el papel de genio. La película está dirigida por guy ritchie y se
+        estrenará en los... (peliculas de bebes)
+La nueva peli de dumbo llega a los cines en marzo
+La nueva peli de dumbo llega a los cines en marzo
+La nueva película “dumbo”, de disney, dirigida por tim burton, se estrenará en los cines de españa
+        el 29 de marzo de 2019. (pelicula para niños)
+Ya está disponible
+Ya está disponible "el cielo nunca cambiará", el tema de melendi para "cómo entrenar a tu dragón 3"
+Ya está disponible en todas las plataformas digitales “el cielo nunca cambiará”, el tema en español
+        compuesto y producido por melendi para cómo entrenar a tu dragón 3. (peliculas
+        para niñas)</string>
+    <string name="buton16" translatable="false">REGRESO</string>
+    <string name="descripcion_txt7">Tú Eres El Próximo
+Es cierto que Tú Eres el Próximo no es una película que transcurre
+        en Día de Acción de Gracias, sin embargo, tiene atributos
+        que podrían encajar a la perfección con la fecha ya que la
+        heroína Erin (Sharni Vinson) acompaña a su novio Crispian
+        (AJ Bowen) en una reunión familiar, en la cual afloran todo
+        tipo de resentimientos e interacciones incómodas entre los
+        hermanos… exactamente, tal como puede llegar a ocurrir en una
+        reunión de temporada navideña donde las cosas pueden salirse de control,
+        en este caso para la familia Davison.
+Blood Freak
+Si estás buscando algo realmente extraño para ver en este Día de Acción de Gracias,
+        Blood Freak es para ti y, es que, este largometraje es una curiosa película
+        de terror antidrogas que originalmente obtuvo una clasificación X por su contenido
+        y escenas explícitas. La trama sigue a un ciclista que se ofrece a llevar a una muchacha
+        a su casa, pero éste acaba llevándola hasta la fábrica de pavos de su padre,
+        un científico loco. El padre convierte a su hijo en un pavo monstruoso y gigante que
+        luchará contra los traficantes.
+
+    </string>
+    <string name="descripcion_txt8">"1 shazan\n2 donde estan las rubias
+         \neste cuerpo no es mio\ndonde estan los miler\nchiquito perp peligroso\
+         nque culpa tiene le nino
+         "¡Shazam!
+
+Fue una sorpresa, una gran sorpresa. En el año de los superhéroes fue Shazam,
+         con permiso de "Fat Thor", lo más gracioso de la temporada. Recordamos que
+         ¡Shazam! cuenta la historia de un niño de 14 años que se convierte en un
+         superhéroe adulto al gritar la palabra que da nombre a la película. El
+         resultado es una comedia personal, disparatada y a ratos paródica del
+         propio mundo de los superhéroes. Un soplo de aire fresco dentro del
+         Universo de DC que tampoco se olvida de las dosis necesarias de acción
+         y épica heroica que tiene que tener una película de este tipo.
+Súper empollonas\n
+</string>
+    <string name="buton17" translatable="false">REGRESO</string>
+    <string name="ima7">comedia</string>
+    <string name="descripcion_txt9">Nanuk, el esquimal (1922)
+Nuestra primera película es una cinta pionera en el género del cine documental.
+        Nanuk, el esquimal (Nanook of the North) se considera por muchos la primera
+        película documental de la historia. Aunque controvertida por su ausencia de
+        neutralidad, su director Robert Flaherty asentó con ella las bases de cómo
+        deberían rodarse las películas documentales en lo sucesivo.
+Nanuk, el esquimal sigue el paso de una tribu de inuitas (esquimales) a lo largo de
+        un año. En este aspecto, el director (que no era antropólogo) trató de preservar
+        en un documento audiovisual lo que consideró los últimos estertores de un modo
+        de vida y de una cultura.
+2. El triunfo de la voluntad (1935)
+Sin que sirva de apología del III Reich, el nazismo demostró un soberbio control de la
+        propaganda. Así lo demuestra la película de Leni Riefenstahl, utilizada como
+        publicidad del poder de Adolf Hitler y sus acólitos. El triunfo de la voluntad
+        recoge los hechos sucedido en el congreso del Partido Nacionalsocialista de
+        Núremberg en 1934.
+A pesar de su fin y de su contenido, en El triunfo de la voluntad se reconoce la pericia
+        de su directora y de cómo esta película sentaría las bases para numerosos documentos
+        audiovisuales posteriores. Se trata de una cinta de habitual visionado en carreras
+        de comunicación y marketing, debido a su importancia histórica.
+3. Noche y niebla (1955)
+Noche y niebla es una película francesa que precisamente hace lo contrario de la anterior cinta.
+        En este caso, estamos ante un documental que ataca el Holocausto y al nazismo.
+        Su director Alain Resnais se valió de material incautado a los nazis para tratar los
+
+        planes de exterminio de estos, evidenciandolos públicamente. Con este documental, Resnais
+        señaló que la responsabilidad de los actores de los nazis no debía caer únicamente sobre
+        la conciencia de Alemania, sino también de todas las naciones que habían permitido que el
+        monstruo creciese.
+Podéis encontrar Noche y Niebla actualmente restaurada en formato Blu-Ray. Resulta un documento
+        muy recomendable para los aficionados a la historia de la II Guerra Mundial y del periodo
+        de entreguerras.
+4. El juego de la guerra (1965)
+Peter Watkins es el director del documental conocido como The War Game (El juego de la guerra).
+        Estamos ante una película documental estrenada en los años 60, a modo de falso documental.
+        Relata el cómo la ciudad británica de Rochester es bombardeada con armas nucleares, dando
+        paso a un escenario postapocalíptico.
+Visionaria, cruda y crítica, El juego de la guerra es uno de los grandes productos de su tiempo,
+        reflejando la paranoía colectiva y el terror nuclear.
+</string>
+    <string name="buton18" translatable="false">REGRESO</string>
+    <string name="descripcion_txt10">"1. Te amare por siempre\n2
+    \2. El gran gasby
+   \ 3. Mientras tu dormias
+    \4. Los juegos del hambre
+    \5. A dos metros de ti\n"
+    </string>
+    <string name="buton19" translatable="false">REGRESO</string>
+    <string name="buton20">REGUESO</string>
+    <string name="descripcin_txt11">"\n2Julisa Barban Martinez
+    \7T11
+    \Ing. TICS
+    \TESOEM
+    \MATUTINO
+    \167010065
+   \ O POSITVO\n"</string>
+    <string name="accion">ACCION</string>
+    <string name="acccion">acccccion</string>
+    <string name="yo">soyo</string>
+    <string name="docu">documentales</string>
+    <string name="masv">masvisto</string>
+    <string name="misp">mispreferidas</string>
+    <string name="ninis">ninos</string>
+    <string name="niniss">ninis</string>
+    <string name="terrr">terror</string>
+    <string name="descrip_acccion">vfiofdibfd</string>
+    <string name="buton14">REGUESO</string>
+    <string name="imaccc">accci</string>
+    <string name="imavito">visto</string>
+    <string name="damis">el drama</string>
+    <string name="dramiss">\"1. Te amare por siempre\\n2     \\2. El gran gasby    \\ 3. Mientras tu dormias     \\4. Los juegos del hambre     \\5. A dos metros de ti\\n\"</string>
+</resources>
